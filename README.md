@@ -10,6 +10,7 @@ This report focuses on analyzing hotel booking cancellations and unrelated facto
 ### Portugal was one the country which was facing approx 70 % cancellations.
 ### According to the dataset, the maximum number of people prefer Online Hotel booking.
 ## Kindly view the complete video; all the details are provided on the second-to-last slide.
+LINK: https://drive.google.com/file/d/1spsplRiAamcbzeQQ-HEp_nhv19w18EBu/view?usp=sharing
 
 # Learn Skills
 ## How to handle large amounts of the dataset, also learn how to clear null values, outliers, 
