@@ -6,7 +6,7 @@ Thus, the primary objective for both hotels is to decrease cancellation rates, e
 This report focuses on analyzing hotel booking cancellations and unrelated factors affecting business and annual revenue.
 
 # Final Insights
-### Hotels were facing massive cancellations due to drastic price hiking, especially in January.
+### Hotels were facing massive cancellations due to drastic price hikes, especially in January.
 ### Portugal was one the country which was facing approx 70 % cancellations.
 ### According to the dataset, the maximum number of people prefer Online Hotel booking.
 ## Kindly view the complete video; all the details are provided on the second-to-last slide.
